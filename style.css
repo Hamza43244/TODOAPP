@@ -1,0 +1,36 @@
+body {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn {
+    background-color: red;
+    margin-left: 140px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+li{
+    list-style-type: none;
+}
+.btn1{
+    background-color: green;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
+#todo-item{
+    padding: 10px;
+    font-size: larger;
+}
+button{
+    padding: 10px;
+    background-color: brown;
+    font-size: larger;
+}
+
+.ab{
+    background-color: aquamarine;
+    border: 5px solid black;
+    width: 50%;
+    
+}
